@@ -1,0 +1,12 @@
+#root{
+    width: fit-content;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    
+}
+body{
+    width: fit-content;
+    padding: 0;
+
+}
